@@ -1,0 +1,15 @@
+C:\Users\ma-hu\source\repos\uBootCounter\bin\Debug\uBootCounter.exe.config
+C:\Users\ma-hu\source\repos\uBootCounter\bin\Debug\uBootCounter.exe
+C:\Users\ma-hu\source\repos\uBootCounter\bin\Debug\uBootCounter.pdb
+C:\Users\ma-hu\source\repos\uBootCounter\obj\Debug\uBootCounter.csprojAssemblyReference.cache
+C:\Users\ma-hu\source\repos\uBootCounter\obj\Debug\MainWindow.g.cs
+C:\Users\ma-hu\source\repos\uBootCounter\obj\Debug\App.g.cs
+C:\Users\ma-hu\source\repos\uBootCounter\obj\Debug\uBootCounter_MarkupCompile.cache
+C:\Users\ma-hu\source\repos\uBootCounter\obj\Debug\uBootCounter_MarkupCompile.lref
+C:\Users\ma-hu\source\repos\uBootCounter\obj\Debug\MainWindow.baml
+C:\Users\ma-hu\source\repos\uBootCounter\obj\Debug\uBootCounter.g.resources
+C:\Users\ma-hu\source\repos\uBootCounter\obj\Debug\uBootCounter.Properties.Resources.resources
+C:\Users\ma-hu\source\repos\uBootCounter\obj\Debug\uBootCounter.csproj.GenerateResource.cache
+C:\Users\ma-hu\source\repos\uBootCounter\obj\Debug\uBootCounter.csproj.CoreCompileInputs.cache
+C:\Users\ma-hu\source\repos\uBootCounter\obj\Debug\uBootCounter.exe
+C:\Users\ma-hu\source\repos\uBootCounter\obj\Debug\uBootCounter.pdb
