@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0AE77390-3C0C-4A32-A55E-1510DAE42047}</ProjectGuid>
+    <ProjectGuid>{058BB4CF-AA6E-4491-B7AD-8F63EA8C3B90}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>uBootCounter</RootNamespace>
     <AssemblyName>uBootCounter</AssemblyName>
